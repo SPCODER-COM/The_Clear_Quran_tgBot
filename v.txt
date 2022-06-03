@@ -1,0 +1,29 @@
+** The Clear Quran **
+
+version 2.0 (beta) _30/5/2022
+
+Add the Holy Quran in Arabic
+Adding a search to the Qur’an in Arabic
+bold the search text within the results (English search)
+___________________________________________________
+
+**v2.1_beta**
+
+-fix character sensitivity when searching in 'English'
+-fix character sensitivity when searching in 'Arabic'
+
+____________________________________________________
+
+**v2.2_beta**
+
+-Adding automatic language detection in the search
+-Delete the language selection feature from the search 
+
+_____________________________________________________
+
+**v2.3**
+
+-Fix display of sources when searching
+-Adding an error message if the number of 
+the verse entered is greater than the number of verses in the surah
+

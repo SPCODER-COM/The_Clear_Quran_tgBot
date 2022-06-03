@@ -1,0 +1,33 @@
+To retrieve a surah use :
+*/q* and "ar" or "en" , then the surah number from 1 to 114.
+
+*Example:*
+
+/q ar 114
+
+To get a specific verse from a surah 
+write the verse number after the surah number
+
+*Example:*
+
+/q en 114 2
+
+To fetch a set of verses from\
+surah(s), add the number of the verse 
+you want to start with, then the number of 
+the verse you want to stop at, 
+
+*Example:*
+/q ar 114 2 4
+
+/l To get the names of the surah(s) and its numbers
+
+*To search in quran:* 
+new: v2.2 
+Adding automatic language detection in the search
+
+*Example:*
+/s <search words "ar or en>
+
+/v To see the latest updates
+
