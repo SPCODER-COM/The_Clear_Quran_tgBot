@@ -11,7 +11,7 @@ from detLang import lang , surahName
 
 
 
-bot = telebot.TeleBot("<your bot Token>")
+bot = telebot.TeleBot("5015574341:AAF38E118SCpoIyKLOzT4lvmllHe4p0vIhQ")
 
 
 
